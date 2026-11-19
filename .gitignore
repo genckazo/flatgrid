@@ -1,0 +1,10 @@
+# Build output
+build/
+dist/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Private development log (machine-specific notes)
+PROGRESS.md
