@@ -6,6 +6,10 @@ Add a folder and FlatGrid looks through every subfolder inside it. Every image a
 depth, shows up in one continuous scrolling grid. Nothing is imported, copied, moved or changed:
 FlatGrid only reads your files.
 
+[![FlatGrid promo video](docs/flatgrid-ad-poster.jpg)](docs/flatgrid-ad.mp4)
+
+*Click the image to watch the 20-second video.*
+
 - macOS 14 or later, Apple silicon
 - Native Swift (SwiftUI + AppKit), no third-party dependencies
 - No network access, no accounts, no analytics
